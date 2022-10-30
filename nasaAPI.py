@@ -15,7 +15,7 @@ kml_fire_footprints = 'kml_fire_footprints'; kml_fire_footprints_desc = 'KML fir
 
 # NASA APi attributes
 endpoint = 'https://firms.modaps.eosdis.nasa.gov/api/'
-key_value = ''
+key_value = '' # introduce your API key here
 source = 'VIIRS_SNPP_NRT'
 output = ['json','csv']
 
